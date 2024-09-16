@@ -1,0 +1,12 @@
+div > p {
+    background-color: grey;
+}
+
+/* div  p {
+    background-color: grey;
+} */
+
+section + h5 {
+    background-color: yellow;
+
+}

@@ -1,0 +1,19 @@
+  /* mouse over link */
+  a:hover {
+    color: rgb(224, 33, 129);
+  }
+
+/* unvisited link */
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+   
+  /* selected link */
+  a:active {
+    color: blue;
+  }

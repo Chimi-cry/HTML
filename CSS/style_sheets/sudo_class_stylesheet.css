@@ -1,0 +1,15 @@
+div {
+    background-color: rgb(117, 117, 156);
+    padding: 30px;
+    text-align: center;
+}
+
+div :hover{
+    background-color: rgb(86, 124, 124);
+}
+input:focus{
+    background-color: rgb(71, 75, 65);
+}
+p:first-child {
+    color: rgb(43, 255, 0);
+  }
